@@ -1,0 +1,14 @@
+.author-img{
+    height:160px;
+}
+body{
+    background-color: wheat;
+} 
+h1{
+    color:rgb(82, 26, 26);
+    text-align: center;
+}   
+p{
+    color: darkslategray;
+    text-align: center;
+}
